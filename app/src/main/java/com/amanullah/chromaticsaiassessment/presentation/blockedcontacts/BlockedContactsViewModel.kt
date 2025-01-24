@@ -24,7 +24,7 @@ class BlockedContactsViewModel @Inject constructor(
     var searchQuery by mutableStateOf(value = "")
         private set
 
-    private val _blockedContacts = mutableStateOf<List<BlockedContact>>(value = emptyList())
+    val _blockedContacts = mutableStateOf<List<BlockedContact>>(value = emptyList())
     val blockedContacts: State<List<BlockedContact>> = _blockedContacts
 
     private val _searchBlockedContacts = mutableStateOf<List<BlockedContact>>(value = emptyList())
