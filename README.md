@@ -59,4 +59,4 @@ The Singleton pattern is used for managing shared instances of certain objects t
 
 This architecture helps in keeping the project modular, easily testable, and scalable, ultimately improving development efficiency and code maintainability.
 
-**Please proceed by opening the project in Android Studio, running it on a device, and conducting the necessary tests. Thank you.**
+**PLEASE PROCEED BY OPENING THE PROJECT IN ANDROID STUDIO, RUNNING IT ON A DEVICE, AND CONDUCTING THE NECESSARY TESTS. THANK YOU.**
