@@ -1,4 +1,4 @@
-package com.amanullah.chromaticsaiassessment.ui.theme
+package com.amanullah.chromaticsaiassessment.base.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
