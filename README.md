@@ -17,3 +17,5 @@ THis project is built using a modern Android architecture that focuses on scalab
 - **Version Catalog**: Managing dependencies with version catalogs to avoid version conflicts and ensure consistent versions across the project.
 
 This setup helps in keeping the project modular, easily testable, and scalable while improving development efficiency.
+
+"Please proceed by opening the project in Android Studio, running it on a device, and conducting the necessary tests. Thank you."
